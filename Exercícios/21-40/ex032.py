@@ -1,0 +1,5 @@
+from time import sleep
+
+for c in range (0,10):
+    print(f"{c+1}")
+    sleep(1)

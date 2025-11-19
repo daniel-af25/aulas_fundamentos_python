@@ -1,0 +1,6 @@
+nome_utilizador = input("Olá, eu sou um BOT, como te chamas?\n --> ")
+print("Dou-te as boas vindas",nome_utilizador)
+idade_utilizador = input("Que idade tens?\n --> ")
+print("Fantástico, já tens",idade_utilizador,"anos.")
+cidade_utilizador = input("És de onde?\n -->")
+print("Uau,",cidade_utilizador,"?? Nunca visitei!")

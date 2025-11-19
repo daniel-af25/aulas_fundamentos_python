@@ -1,0 +1,3 @@
+print("Em linhas de código, a arte se revela,\nPython se destaca, de forma singela.\nIdentação precisa, seu charme discreto,\nTorna a programação um caminho direto.\n")
+print("Com loops que iteram, decisões a tomar,\nCada função em Python, há algo a explorar.\nManipula os dados com pandas, sem parar,\nE na simplicidade do código, vê-se a lógica brilhar.\n")
+print("Uma lista, um dicionário, tudo bem organizado,\nEm Python, cada estrutura tem seu lugar bem marcado.\nDe strings a números, tudo se conecta,\nA linguagem é poderosa, flexível e direta.")
