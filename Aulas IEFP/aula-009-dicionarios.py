@@ -17,8 +17,5 @@ for c in range(qt_alunos):
 
 print(turma[1])
 
-'''if (aluno["Média"] > 9.5):
-    aluno["Situação"] = "Aprovado"
-else:
-    aluno["Situação"] = "Reprovado"'''
+'''\'''
 
