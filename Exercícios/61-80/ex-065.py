@@ -13,6 +13,7 @@ for c in range(qt_jogadores):
     jogador["Jogador"] = input(f"{c+1}º Jogador: ")
     num = randint(1,6)
     if (num in used_numbers):
+        while(num in used_numbers):
             num = randint(1, 6)
     used_numbers.append(num)
     jogador["Jogada"] = num
